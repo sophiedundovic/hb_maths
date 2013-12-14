@@ -1,5 +1,5 @@
 body {
-  background-image: url("/Users/Sophie/Documents/hb_maths/images/background.JPG");
+  background-image: url(../images/background.JPG);
 
 
 
@@ -8,7 +8,7 @@ body {
 
       background-size: cover;
       background-position: center;
-      color: blue;
+      color: white;
       font-family: helvetica;
      
     margin: auto;
