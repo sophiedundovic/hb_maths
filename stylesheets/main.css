@@ -18,9 +18,7 @@ body {
       width: 100%;
   }
     
-  img { 
-      opacity: 0.4;
-    }
+
     
     
     p {
@@ -35,4 +33,5 @@ body {
       background: red;
       color: white;
     }
+
   </style>
