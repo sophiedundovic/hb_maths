@@ -19,6 +19,28 @@ body {
   }
     
 
+#StayFocusd-infobar {
+border-bottom: 5px solid rgb(229, 229, 229);
+display: none;
+float: left;
+font-size: 14px;
+font-family: Arial, Verdana, sans-serif;
+letter-spacing: 0px;
+height: 20px;
+margin-bottom: 16px;
+padding: 10px;
+position: absolute;
+text-align: left;
+text-transform: none;
+top: 0px;
+left: 0px;
+width: 100%;
+z-index: 99999999;
+background: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+}
+
+
     html{ height: 100% }
     
     p {
